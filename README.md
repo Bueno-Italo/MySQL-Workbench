@@ -1,2 +1,2 @@
 # MySQL Workbench
- Aprendizado em Bando de Dados
+ Aprendizado em Banco de Dados com o CursoemVideo.
